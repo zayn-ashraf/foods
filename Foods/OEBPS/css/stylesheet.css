@@ -1,0 +1,192 @@
+.noindent
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:0.5em;
+	font-size:120%;
+	text-align:justify;
+	text-indent:0em;
+}
+
+.indent
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:0.5em;
+	font-size:120%;
+	text-align:justify;
+	text-indent:1em;
+	
+	
+}
+.extra-indent
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:0.5em;
+	font-size:120%;
+	text-align:justify;
+	text-indent:2em;
+	
+	
+}
+.right
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:1em;
+	font-size:100%;
+	text-align:right;
+	text-indent:1em
+}
+.rightside
+{
+	margin-left:1em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:0em;
+	font-size:100%;
+	text-align:justify;
+	text-indent:0em
+}
+.center
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top:0em;
+	margin-bottom:0em;
+	font-size:120%;
+	text-align:center;
+	text-indent:0em
+	
+	
+}
+
+
+
+.chap-title
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top :0em;
+	margin-bottom:2em;
+	font-size:250%;
+	text-indent:0em;
+}
+	
+.chap-no
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top :0em;
+	margin-bottom:0em;
+	font-size:250%;
+	text-indent:0em;
+	
+}
+
+.space
+{
+	margin-left:0em;
+	margin-right:0em;
+	margin-top :0em;
+	margin-bottom:1em;
+	
+	text-indent:0em;
+	
+}
+.heading-center
+{
+	font-size:240%;
+	text-align:center;
+}
+.heading-left
+{
+	font-size:240%;
+	text-align:left;
+}
+.h-l
+{
+	font-size:150%;
+	text-align:left;
+}
+.r-h
+{
+	font-size:180%;
+	text-align:right;
+	
+}
+.heading-2
+{
+	font-size:270%;
+	text-align:center;
+}
+.heading-3
+{
+	font-size:220%;
+	text-align:left;
+	text-indent:1em;
+	margin:0em;
+	margin-top:1em;
+	margin-bottom:0.5em;
+}
+.box
+{
+	border:1px solid black;
+	border-top:3px solid black;
+	padding-top:0.2em;
+	width : 90%;
+	text-align:center;
+	margin-left:5%;
+	margin-right:5%;
+}
+.box1
+{
+	border:1px solid black;
+	border-top:3px solid black;
+	padding-top:0.2em;
+	width : 100%;
+	text-align:center;
+	
+}
+.big
+{
+	font-size:140%;
+	margin:0em;
+}
+.cover2
+{
+	font-size:400%;
+	text-align:center;
+}
+.cover22
+{
+	font-size:400%;
+		color: gray;
+	text-align:center;
+}
+.cover3
+{
+	font-size:200%;
+	
+	color: dark gray;
+	text-align:center;
+}
+.cover4
+{
+	font-size:120%;
+	
+	color:gray;
+	text-align:center;
+}
+.small
+{
+	font-size:100%;
+	
+	color:black;
+	text-align:center;
+}

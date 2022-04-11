@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="URN:ISBN:978-0-06-256285-2"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="226"/>
+<meta name="dtb:maxPageNumber" content="226"/>
+</head>
+<docTitle>
+<text>Climate Change in World Politics</text>
+</docTitle>
+
+<navMap>
+
+<navPoint id="toc1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="xhtml/cover.html"/></navPoint>
+
+<navPoint id="toc2" playOrder="2"><navLabel><text>Cover1</text></navLabel><content src="xhtml/cover1.html"/></navPoint>
+<navPoint id="toc3" playOrder="3"><navLabel><text>Dedication</text></navLabel><content src="xhtml/dedication.html"/></navPoint>
+<navPoint id="toc4" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="xhtml/contents.html"/></navPoint>
+<navPoint id="toc5" playOrder="5"><navLabel><text>Introduction</text></navLabel><content src="xhtml/introduction.html"/></navPoint>
+<navPoint id="toc6" playOrder="6"><navLabel><text>chapter1</text></navLabel><content src="xhtml/chapter1.html"/></navPoint>
+
+
+
+
+</navMap>
+</ncx>
